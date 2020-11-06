@@ -29,7 +29,7 @@ public class Session2Homework_BL : MonoBehaviour
             UnityEngine.Debug.Log("Avenger Member Number " + (counter + 1)  + " is " + avangerMembers[counter]);
         }
         //iii. Write a dog class and initialize an instance of the class
-
+        // In Dog_Class, CyberDog, Dog_Handler
     }
 
     // Update is called once per frame
